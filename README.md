@@ -6,7 +6,7 @@ This is a personal professional website for Chris Collis, built with [Vite](http
 
 ### Prerequisites
 
-- Node.js (v18 or higher recommended)
+- Node.js (v24 or higher recommended)
 - npm
 
 ### Installation
@@ -46,4 +46,4 @@ See `.github/workflows/deploy.yml` for the configuration.
 
 ## License
 
-This project is licensed under the ISC License.
+This project is licensed under the [MIT License](LICENSE).
