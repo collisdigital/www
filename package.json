@@ -10,13 +10,13 @@
   },
   "keywords": [],
   "author": "Chris Collis",
-  "license": "ISC",
+  "license": "MIT",
   "engines": {
-    "node": ">=18.0.0"
+    "node": "^24.0.0"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
-    "@tailwindcss/vite": "^4.0.0",
+    "@tailwindcss/vite": "^4.1.18",
     "autoprefixer": "^10.4.24",
     "postcss": "^8.5.6",
     "serve": "^14.2.5",
